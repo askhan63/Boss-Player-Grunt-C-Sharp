@@ -1,0 +1,15 @@
+C:\Users\AS KHAN\source\repos\labmid\labmid\bin\Debug\net6.0\labmid.exe
+C:\Users\AS KHAN\source\repos\labmid\labmid\bin\Debug\net6.0\labmid.deps.json
+C:\Users\AS KHAN\source\repos\labmid\labmid\bin\Debug\net6.0\labmid.runtimeconfig.json
+C:\Users\AS KHAN\source\repos\labmid\labmid\bin\Debug\net6.0\labmid.dll
+C:\Users\AS KHAN\source\repos\labmid\labmid\bin\Debug\net6.0\labmid.pdb
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\labmid.csproj.AssemblyReference.cache
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\labmid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\labmid.AssemblyInfoInputs.cache
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\labmid.AssemblyInfo.cs
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\labmid.csproj.CoreCompileInputs.cache
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\labmid.dll
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\refint\labmid.dll
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\labmid.pdb
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\labmid.genruntimeconfig.cache
+C:\Users\AS KHAN\source\repos\labmid\labmid\obj\Debug\net6.0\ref\labmid.dll
